@@ -1,5 +1,5 @@
-# Simplest Website Boiler plate on GitHub
-Most web app project templates today are filled with lines upon lines of worthless code you have to deal with before you can get your test site customized for you. 
+# Simplest Website Boiler Plate on GitHub
+Most web app project templates today are filled with lines upon lines of worthless code you have to deal with before you can get your test site up and customized for you. 
 
 This repo is not one of those. 
 
